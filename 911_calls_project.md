@@ -215,7 +215,7 @@ sns.countplot(x='Reason',data=df,palette='viridis')
 
 
     
-![png](output_18_1.png)
+![](911_calls_project_files\output_18_1.png)
     
 
 
