@@ -405,7 +405,7 @@ plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
 
 
     
-![png](output_29_1.png)
+![](911_calls_project_files/output_29_1.png)
     
 
 
@@ -425,7 +425,7 @@ plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
 
 
     
-![png](output_30_1.png)
+![](911_calls_project_files/output_30_1.png)
     
 
 
@@ -598,7 +598,7 @@ byMonth['twp'].plot()
 
 
     
-![png](output_35_1.png)
+![](911_calls_project_files/output_35_1.png)
     
 
 
@@ -618,7 +618,7 @@ sns.lmplot(x='Month',y='twp',data=byMonth.reset_index())
 
 
     
-![png](output_37_1.png)
+![](911_calls_project_files/output_37_1.png)
     
 
 
@@ -639,7 +639,7 @@ plt.tight_layout()
 
 
     
-![png](output_41_0.png)
+![](911_calls_project_files/output_41_0.png)
     
 
 
@@ -654,7 +654,7 @@ plt.tight_layout()
 
 
     
-![png](output_43_0.png)
+![](911_calls_project_files/output_43_0.png)
     
 
 
@@ -667,7 +667,7 @@ plt.tight_layout()
 
 
     
-![png](output_44_0.png)
+![](911_calls_project_files/output_44_0.png)
     
 
 
@@ -680,7 +680,7 @@ plt.tight_layout()
 
 
     
-![png](output_45_0.png)
+![](911_calls_project_files/output_45_0.png)
     
 
 
@@ -906,7 +906,7 @@ sns.heatmap(dayHour,cmap="viridis")
 
 
     
-![png](output_49_1.png)
+![](911_calls_project_files/output_49_1.png)
     
 
 
@@ -926,7 +926,7 @@ sns.clustermap(dayHour, cmap='viridis')
 
 
     
-![png](output_51_1.png)
+![](911_calls_project_files/output_51_1.png)
     
 
 
@@ -1064,7 +1064,7 @@ sns.heatmap(dayMonth,cmap='viridis')
 
 
     
-![png](output_54_1.png)
+![](911_calls_project_files/output_54_1.png)
     
 
 
@@ -1082,6 +1082,6 @@ sns.clustermap(dayMonth, cmap="viridis")
 
 
     
-![png](output_55_1.png)
+![](911_calls_project_files/output_55_1.png)
     
 
